@@ -117,7 +117,7 @@ This validated my script was working exactly like the manual fix, only automated
 
 ## Step 7: Publishing & Documentation
 
-Finally, I pushed the script to my GitHub repository under a **“STIG Remediations”** folder, with the proper STIG-ID in the filename.
+Finally, I pushed the script to my GitHub repository under a **“.PS1”** file, with the proper STIG-ID in the filename.
 
 
 ---
