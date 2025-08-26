@@ -119,7 +119,6 @@ This validated my script was working exactly like the manual fix, only automated
 
 Finally, I pushed the script to my GitHub repository under a **“STIG Remediations”** folder, with the proper STIG-ID in the filename.
 
-I also logged the experience in my internship **tracking spreadsheet**, writing in first person what I did, the logic I followed, and linking both the GitHub code and Tenable screenshots.
 
 ---
 
@@ -130,6 +129,3 @@ I also logged the experience in my internship **tracking spreadsheet**, writing 
 * Confirm by rescanning after manual and automated fixes.
 * Document the fix, rollback, and automation process for audit and compliance readiness.
 
----
-
-Would you like me to also draft the **rollback script** in PowerShell (to remove `MaxSize` or reset to default) so you can demonstrate the *fail → pass → fail → pass* control cycle in your GitHub repo?
